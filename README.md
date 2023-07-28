@@ -24,4 +24,6 @@ node microservice_1.js
 ```
 node microservice_2.js
 ```
-Теперь оба микросервиса М1 и М2 должны быть успешно запущены и готовы к обработке входящих HTTP запросов через RabbitMQ.
+Теперь оба микросервиса М1 и М2 должны быть успешно запущены и готовы к обработке входящих HTTP запросов через RabbitMQ.  
+
+[Скриншоты/Запись работы программы](https://drive.google.com/drive/folders/16gTr4NCzL_keUkDahEHPOprVX1h5j99t?usp=sharing)
